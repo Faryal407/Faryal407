@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSz_ben0tPC4Cser1dHDjKVXzhKeFUZ0whQ&s" height="30" alt="boostrap logo"  />
   <img width="12" />
-    <img src=" " height="30" alt="css3 logo"  />
+    <img src="https://cms-assets.tutsplus.com/uploads/users/1251/posts/30662/preview_image/sweet_alert_tutsplus_2.jpg" height="30" alt="css3 logo"  />
   
 </div>
 
