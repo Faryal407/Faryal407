@@ -11,6 +11,8 @@
 
  <img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUaWanp_Q6Glp0JGy1eHZ-QJ-iBnoCk5SDQ&s"  />
 
+  <img align="right" height="150" src="https://loop-media.co/wp-content/uploads/2025/01/Complete-Guide-to-Web-Development-and-Design.jpg"  />
+
 ###
 
 <div align="left">
