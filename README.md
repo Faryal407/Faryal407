@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSz_ben0tPC4Cser1dHDjKVXzhKeFUZ0whQ&s" height="30" alt="boostrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  
 </div>
 
 ###
