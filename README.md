@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Faryal and I'm a Web Developer, from Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Faryal and I'm a passionate Frontened Developer, from Pakistan</h2>
 
 ###
 
