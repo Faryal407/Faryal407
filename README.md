@@ -26,8 +26,8 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSz_ben0tPC4Cser1dHDjKVXzhKeFUZ0whQ&s" height="30" alt="boostrap logo"  />
   <img width="12" />
-    <img src="https://cms-assets.tutsplus.com/uploads/users/1251/posts/30662/preview_image/sweet_alert_tutsplus_2.jpg" height="30" alt="css3 logo"  />
-  
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGguMU7C4fZb0mMFl2vqOPf3uhExb7UfLNKg&s" height="30" alt="sweet alert logo"  />
+  <img width="12" />
 </div>
 
 ###
